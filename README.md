@@ -100,7 +100,6 @@ Demais tipos de investimento não serão considerados.
 Conteúdos praticados
 
 Durante os exercícios foram utilizados os seguintes conceitos:
-
 Entrada de dados com input();
 Conversão de tipos com int() e float();
 Operadores relacionais;
